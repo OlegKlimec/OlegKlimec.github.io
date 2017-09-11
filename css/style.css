@@ -53,7 +53,9 @@ hr{
 	background: #172727;
 	border-color: #172727;
 }
-
+element.style {
+    bottom: 410px;
+}
 .navbar-default {
     
     padding: 15px 0px 35px 0;
