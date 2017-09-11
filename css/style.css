@@ -53,13 +53,8 @@ hr{
 	background: #172727;
 	border-color: #172727;
 }
-element.style {
-    bottom: 410px;
-}
-.navbar-default {
-    
-    padding: 15px 0px 35px 0;
-}
+
+
 #headerwrap{
 	background:url(../images/bg-home.jpg) no-repeat center top;
 	padding-top: 200px;
@@ -219,7 +214,7 @@ element.style {
 
 .logo-w img{
 	width: 200px;
-	margin: -10px 0 0 0;
+	margin: -30px 0 0 0;
 }
 
 
